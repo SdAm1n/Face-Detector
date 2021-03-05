@@ -1,7 +1,7 @@
 # Face Detector
 Face Detection using OpenCV with C++. This program can detect faces from image and webcam live video feed.
 
-* Requirement: C++ compiler (preferably GNU Compiler) & OpenCV needs to be installed in your PC. Webcam or similar device is needed for face detection from live 
+* Requirements: C++ compiler (preferably GNU Compiler) & OpenCV needs to be installed in your PC. Webcam or similar device is needed for face detection from live 
 video.
 
 ![Face Detection](https://github.com/SdAm1n/Face-Detector/blob/main/resources/sample.png?raw=true)
